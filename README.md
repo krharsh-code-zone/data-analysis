@@ -38,4 +38,4 @@ Before building the dashboard, Python was used to establish statistical baseline
 Built the Interactive Dashboard in PowerBI to visualize the relation between data.
 
 ### Interactive Dashboard DEMO
-Demo GIF showing the working of Dashboard, named 'dashboard' in the .main
+Demo GIF showing the working of Dashboard, named 'dashboard_demo.gif' in the main branch.
